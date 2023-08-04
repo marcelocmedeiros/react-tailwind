@@ -1,3 +1,20 @@
+# Curso TailwindCSS com React
+
+Curso trás os conceitos básicos de TailwindCSS.
+
+## Neste Curso foi ensinado os seguintes temas: 
+
+
+- **A filosofia do Tailwind**
+- **Os principais conceitos do Tailwind: classes, mobile first, componentes e outros**
+- **Box Model**: O modelo de caixa do HTML/CSS é um dos conceitos mais importantes para um desenvolvedor Web, por isso vamos entender como funciona no Tailwind.
+- **Flexbox**: Vamos entender como usar flexbox com Tailwind em todos os projetos do curso. 
+- **CSS Grid**: Exemplos de CSS Grid juntamente com Tailwind. Adicionalmente mostrar como criar um componente React chamado ```Grid``` que pode te ajudar muito no layout das tuas aplicações.
+- **Extras**: tipografia, backgrounds e outros.
+- **Menu da Aplicação**: Para finalizar foi construido um menu de uma aplicação e outros assuntos foram explorados como a alternância entre tema claro e escuro.
+
+
+## 🤔 Segue abaixo como o projeto foi criado caso queira baixar e rodar no seu PC 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
