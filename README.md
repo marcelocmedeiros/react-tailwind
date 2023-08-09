@@ -1,6 +1,6 @@
 # Curso TailwindCSS com React
 
-Curso trás os conceitos básicos de TailwindCSS.
+Curso trás os conceitos básicos e a importância de se usar o TailwindCSS.
 
 ## Neste Curso foi ensinado os seguintes temas: 
 
