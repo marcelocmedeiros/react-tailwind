@@ -1,3 +1,10 @@
+# Menu da Aplicação
+
+<p align="center">
+<img src="./imagens/page.png" alt="Tela incial" width="415px"></img>
+<img src="./imagens/tailwind.gif" alt="Aplicação funcionando" width="421px"></img>
+</p>
+
 # Curso TailwindCSS com React
 
 Curso trás os conceitos básicos e a importância de se usar o TailwindCSS.
